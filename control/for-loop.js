@@ -10,7 +10,7 @@ for(let i = 0; i<num.length; i++){
 console.log({i});
 if(i===3){
     break;
-}
+  }
 }
 
 //continue statement**
